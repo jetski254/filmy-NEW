@@ -18,8 +18,8 @@ Wypożyczalnia filmów API to aplikacja umożliwiająca zarządzanie danymi o fi
 
 1. Sklonuj repozytorium:
     ```bash
-    git clone https://github.com/username/restauracja-api.git
-    cd restauracja-api
+    git clone https://github.com/username/filmy-api.git
+    cd filmy-api
     ```
 
 2. Zainstaluj wymagane zależności:
